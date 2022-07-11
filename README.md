@@ -10,4 +10,5 @@ As part of the project you will find a sentiment analysis of the description of 
 ## Requirements to replicate the methodology
 
 > requirements.txt
+
 > environment.yml
