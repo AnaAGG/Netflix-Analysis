@@ -1,6 +1,6 @@
 # Netflix-Analysis
 
-![portada](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/Netflix_logo.svg.png?raw=true)
+![portada](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/HEADER.png?raw=true)
 
 ## Objective: 
 
@@ -19,7 +19,7 @@ The main results of the world cloulds are:
 
   ![genres](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/world_clouds/listed_normal.png?raw=true)
   
- - Finally, the main country is  United States, followed by India
+- Finally, the main country is  United States, followed by India
  
   ![countries](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/world_clouds/country_normal.png?raw=true) 
 
