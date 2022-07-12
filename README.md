@@ -1,6 +1,6 @@
 # Netflix-Analysis
 
-![portada](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/netflix-new-logo.png?raw=true)
+![portada](https://github.com/AnaAGG/Netflix-Analysis/blob/main/images/Netflix_logo.svg.png?raw=true)
 
 ## Objective: 
 
